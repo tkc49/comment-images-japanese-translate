@@ -1,2 +1,0 @@
-comment-images-japanese-translate
-=================================
