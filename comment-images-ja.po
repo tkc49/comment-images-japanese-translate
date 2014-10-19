@@ -14,7 +14,7 @@ msgstr ""
 "X-Generator: Poedit 1.5.4\n"
 "Language: japanese\n"
 "X-Poedit-SearchPath-0: ..\n"
-ヤットさんごめんなさい
+
 #: ../class-comment-image.php:166 ../class-comment-image.php:268
 #: ../class-comment-image.php:556 ../class-comment-image.php:565
 msgid "Comment Images"
@@ -95,4 +95,4 @@ msgstr "すべての記事のコメントを無効にする"
 #: ../class-comment-image.php:604
 msgid "Enable Comments For All Posts"
 msgstr "すべての記事のコメントを有効にする"
-うんこ
+
