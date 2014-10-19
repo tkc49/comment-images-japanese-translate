@@ -95,3 +95,4 @@ msgstr "すべての記事のコメントを無効にする"
 #: ../class-comment-image.php:604
 msgid "Enable Comments For All Posts"
 msgstr "すべての記事のコメントを有効にする"
+うんこ
